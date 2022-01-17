@@ -1,5 +1,5 @@
 # WeSplit
-From 100 Days of SwiftUI
+My own take from WeSplit 100 Days of SwiftUI
 
 # Screenshot
 
